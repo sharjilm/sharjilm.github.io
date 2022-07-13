@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://sharjilm.github.io/sitemap.xml
+Host: https://sharjilm.github.io
