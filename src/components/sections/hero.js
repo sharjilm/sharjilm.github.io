@@ -134,15 +134,15 @@ const Hero = () => {
           McMaster University
         </a>
         , with experience in web, mobile, and application development. I've previously interned at{' '}
+        <a href="https://www.ibm.com/ca-en/" target="_blank" rel="noreferrer">
+          IBM
+        </a>{' '}
+        and{' '}
         <a href="https://www.rbc.com/about-rbc.html" target="_blank" rel="noreferrer">
           RBC
         </a>{' '}
-        where I supported the development of mobile apps responsible for core
-        business functionality to the users. This summer I'm interning at{' '}
-        <a href="https://www.ibm.com/ca-en/" target="_blank" rel="noreferrer">
-          IBM
-        </a>
-        !
+        where I supported the development of web and mobile apps responsible for core
+        business functionality to users and clients.
       </p>
     </>
   );

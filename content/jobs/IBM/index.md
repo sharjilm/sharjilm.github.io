@@ -7,6 +7,6 @@ range: 'January 2022 - August 2022'
 url: 'https://www.ibm.com/ca-en'
 ---
 
-- Working on backend development as part of the Cognos Analytics team, including bug fixes and various projects.
-- Tools used: Java, JavaScript, ReactJS, Redux, VSCode, Eclipse, Git, GitHub, Jira, JUnit, Apache Maven, Jenkins, SonarQube.
-- More info coming soon!
+- Replaced old SOAP APIs with newer REST APIs in a support tool for Cognos Analytics, increasing efficiency and reducing bandwidth usage.
+- Optimized performance of application through integration of new cryptography APIs, while leveraging automated testing frameworks.
+- Tools used: Java, JavaScript, React.js, Redux, VSCode, Eclipse, Git, GitHub, Jira, JUnit, Apache Maven, Jenkins, SonarQube.

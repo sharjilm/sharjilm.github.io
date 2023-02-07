@@ -4,7 +4,7 @@ title: 'Teaching Assistant'
 company: 'McMaster'
 companyFullName: 'McMaster University - Faculty of Engineering'
 location: 'Hamilton, ON'
-range: 'September 2020 - April 2021'
+range: 'September 2020 - April 2021, January 2023 - Present'
 url: 'https://www.eng.mcmaster.ca/'
 ---
 

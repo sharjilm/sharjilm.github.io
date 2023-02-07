@@ -87,7 +87,7 @@ const Footer = () => (
         <a href="https://pages.github.com/">Hosted on GitHub Pages</a>
       </div>
       <a href="">
-        <div>Copyright © 2022 Sharjil Mohsin</div>
+        <div>Copyright © 2023 Sharjil Mohsin</div>
       </a>
     </StyledCredit>
   </StyledFooter>

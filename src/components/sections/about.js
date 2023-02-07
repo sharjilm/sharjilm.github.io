@@ -147,11 +147,15 @@ const About = () => {
             </p>
 
             <p>
-              Currently I'm interning with{' '}
+              Previously I've interned with{' '}
               <a href="https://www.ibm.com/ca-en/" target="_blank" rel="noreferrer">
                 IBM
+              </a>{' '}
+              and{' '}
+              <a href="https://www.rbc.com/about-rbc.html" target="_blank" rel="noreferrer">
+                RBC
               </a>
-              , but I will be looking for full time positions once I graduate in April 2023.
+              , and I'm currently looking for full-time positions once I graduate in May 2023.
             </p>
 
             <p>Here are a few of the technologies I used during my internships and to build projects:</p>
